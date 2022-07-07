@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'ru.Homeworks.A_Batsanov'
+group 'ru.homeworks.abatsanov'
 version '1.0-SNAPSHOT'
 
 repositories {
